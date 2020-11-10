@@ -1,6 +1,5 @@
 ## About this code  
-The script "main.m" is wirtten for re-scaling the RT imgae: Trilogy picket fense test.  
-  
+The script "main.m" is wirtten for automatic DVH analysis extracted from Eclipse TPS.   
  
   
 ## Who am I 
